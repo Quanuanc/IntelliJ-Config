@@ -1,27 +1,118 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="ExternalSystemProjectTracker">
+        <option name="projectSettingsTrackerStates">
+          <map>
+            <entry>
+              <key>
+                <Id>
+                  <option name="externalProjectPath" value="Default (Template) Project" />
+                  <option name="systemId" value="Cargo" />
+                </Id>
+              </key>
+              <value>
+                <Project>
+                  <option name="settingsTracker">
+                    <State>
+                      <option name="dirty" value="false" />
+                    </State>
+                  </option>
+                </Project>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="$USER_HOME$/scoop/apps/maven/current" />
+            <option name="mavenHome" value="/opt/homebrew/Cellar/maven/3.9.2/libexec" />
           </MavenGeneralSettings>
         </option>
       </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>CodePlugin DevKit</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="liberica-11" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="false" />
+        <option name="showLibraryContents" value="true" />
+      </component>
       <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "ics"
+    "go.import.settings.migrated": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.41379312",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
       <component name="WindowStateProjectService">
-        <state x="702" y="259" key="FileChooserDialogImpl" timestamp="1684206133816">
-          <screen x="0" y="0" width="1920" height="1032" />
+        <state x="369" y="154" key="SettingsEditor" timestamp="1686745722094">
+          <screen x="0" y="38" width="1512" height="944" />
         </state>
-        <state x="702" y="259" key="FileChooserDialogImpl/0.0.1920.1032" timestamp="1684206133816" />
-        <state x="386" y="162" key="SettingsEditor" timestamp="1686723919415">
-          <screen x="0" y="0" width="1920" height="1032" />
-        </state>
-        <state x="386" y="162" key="SettingsEditor/0.0.1920.1032" timestamp="1686723919415" />
+        <state x="369" y="154" key="SettingsEditor/0.38.1512.944/-89.-920.1680.920" timestamp="1686745722094" />
+        <state x="329" y="156" key="SettingsEditor/0.38.1512.944/-945.-203.945.1655" timestamp="1685619060511" />
+        <state x="392" y="185" key="SettingsEditor/0.44.1800.1125/-70.-1055.1920.1055" timestamp="1682149906751" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.41379312" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>liberica-1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.41379312" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.41379312" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
