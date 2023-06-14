@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration" systemNotifications="false">
+    <notification groupId="Go plugin notifications" displayType="NONE" />
+    <notification groupId="Language Plugins Notifications" displayType="NONE" shouldLog="false" />
+    <notification groupId="MybatisCodeHelper Notification" displayType="NONE" />
+  </component>
+</application>

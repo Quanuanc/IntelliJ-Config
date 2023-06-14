@@ -1,0 +1,28 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$USER_HOME$/scoop/apps/maven/current" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "ics"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="702" y="259" key="FileChooserDialogImpl" timestamp="1684206133816">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="702" y="259" key="FileChooserDialogImpl/0.0.1920.1032" timestamp="1684206133816" />
+        <state x="386" y="162" key="SettingsEditor" timestamp="1686723919415">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="386" y="162" key="SettingsEditor/0.0.1920.1032" timestamp="1686723919415" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

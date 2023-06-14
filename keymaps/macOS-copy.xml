@@ -1,0 +1,18 @@
+<keymap version="1" name="macOS-copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="Console.TableResult.EditFilterCriteria">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="Console.TableResult.EditOrdering">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id="GotoDatabaseObject">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="MaximizeToolWindow" />
+</keymap>
